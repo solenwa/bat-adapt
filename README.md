@@ -1,8 +1,5 @@
-# React + Vite
+# Bat-ADAPT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bat-ADAPT est un outil d'aide à la décision relatif aux risques climatiques à l'échelle de la France et de l'EU, selon les scénarios du GIEC. A l'aide d'une adresse et de quelques caractéristiques du bâtiment, l'analyse croise exposition et vulnérabilité
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ce projet front-end est créé dans le cadre de l'open-booster Adapt'Action regroupant des projets innovants, acteurs de la transition écologique.
