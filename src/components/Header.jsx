@@ -36,32 +36,32 @@ function Header() {
         <div className="hidden items-center lg:flex lg:gap-x-10">
           <Link
             href="#"
-            className="text-base/6 font-semibold hover:border-b-2 hover:border-sangirblue"
+            className="text-base/6 hover:border-b-2 hover:border-sangirblue"
           >
             Accueil
           </Link>
           <Link
             to="#"
-            className="text-base/6 font-semibold hover:border-b-2 hover:border-sangirblue"
+            className="text-base/6 hover:border-b-2 hover:border-sangirblue"
           >
             Les outils
           </Link>
 
           <Link
             to="#"
-            className="text-base/6 font-semibold hover:border-b-2 hover:border-sangirblue"
+            className="text-base/6 hover:border-b-2 hover:border-sangirblue"
           >
             À propos
           </Link>
           <Link
             to="#"
-            className="text-base/6 font-semibold hover:border-b-2 hover:border-sangirblue"
+            className="text-base/6 hover:border-b-2 hover:border-sangirblue"
           >
             Documentation
           </Link>
           <Link
             to="#"
-            className="text-base/6 font-semibold hover:border-b-2 hover:border-sangirblue"
+            className="text-base/6 hover:border-b-2 hover:border-sangirblue"
           >
             Contact
           </Link>
@@ -116,31 +116,31 @@ function Header() {
               <div className="space-y-2 py-6">
                 <a
                   href="#"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 text-gray-900 hover:bg-gray-50"
                 >
                   Accueil
                 </a>
                 <a
                   href="#"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 text-gray-900 hover:bg-gray-50"
                 >
                   Les outils
                 </a>
                 <a
                   href="#"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7  text-gray-900 hover:bg-gray-50"
                 >
                   À propos
                 </a>
                 <a
                   href="#"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 text-gray-900 hover:bg-gray-50"
                 >
                   Documentation
                 </a>
                 <a
                   href="#"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7  text-gray-900 hover:bg-gray-50"
                 >
                   Contact
                 </a>
